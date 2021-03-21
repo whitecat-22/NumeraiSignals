@@ -378,7 +378,7 @@ try:
 
 
     submission_id = napi.upload_predictions(
-        f"/content/example_signal_upload.csv", model_id=model_id)
+        f"example_signal_upload.csv", model_id=model_id)
 
     # And its done. Congratulations. Your predictions for latest round are submitted!
     #
