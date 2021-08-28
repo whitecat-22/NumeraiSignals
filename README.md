@@ -10,5 +10,5 @@ EC2起動時に、インスタンス内： home/(user)/numerai/predict.py を起
 
 
 <a href="https://signals.numer.ai/tournament">
-  <ims src="https://github.com/whitecat-22/NumeraiSignals/blob/main/signals-logo-white.6b048f21.png">
+  <img src="https://github.com/whitecat-22/NumeraiSignals/blob/main/signals-logo-white.6b048f21.png">
 </a>
