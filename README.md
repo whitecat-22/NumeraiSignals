@@ -11,7 +11,7 @@ EC2起動時に、インスタンス内： home/(user)/numerai/predict.py を起
 
 　
 
-- 株価取得用の参考データ：
+- 株価取得用の参考データ：  
 [YFinance Stock Price Data for Numerai Signals](https://www.kaggle.com/code1110/yfinance-stock-price-data-for-numerai-signals)
 
 　
