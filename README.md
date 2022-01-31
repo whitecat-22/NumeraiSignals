@@ -1,7 +1,7 @@
 # NumeraiSignals
 
 
-・[Numerai Signals](https://signals.numer.ai/tournament) 提出用の株価予測は、WebhookからAWS APIGwatwayを通じて、  
+・[Numerai Signals](https://signals.numer.ai/tournament) 提出用の株価予測は、Webhookから[AWS APIGwatway](https://aws.amazon.com/jp/api-gateway/?nc2=h_ql_prod_serv_apig)を通じて、  
 　Lambda経由でEC2(g4dn.xlearge)を起動する。  
 ・EC2起動時に、インスタンス内： home/(user)/numerai/predict_signals.py を起動する。
 
